@@ -21,7 +21,7 @@
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=nexnc&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&show_icons=true" alt="GitHub Stats" width="49%" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexnc&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&layout=compact" alt="Top Langs" width="44%" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nexnc&layout=compact&langs_count=6&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=nexnc&layout=compact&langs_count=6&theme=tokyonight)
 
 <br/>
 <br/>
