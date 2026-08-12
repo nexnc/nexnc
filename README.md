@@ -34,7 +34,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nexnc&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexnc&layout=compact&langs_count=6&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nexnc&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <br/>
