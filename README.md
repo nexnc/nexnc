@@ -33,10 +33,7 @@
 <br/>
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=nexnc&hide_title=true&custom_title=NEXNC%27s%20Git%20Stats&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nexnc&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=nexnc&hide_title=true&custom_title=NEXNC%27s%20Git%20Stats&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" width="48%" height="50%"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nexnc&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" width="37.7%" />
 </p>
-
 <br/>
-
-[![](https://visitcount.itsvg.in/api?id=nexnc&icon=0&color=0)](https://visitcount.itsvg.in)
